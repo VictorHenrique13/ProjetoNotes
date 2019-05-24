@@ -1,0 +1,12 @@
+2019-05-16 12:07:28 -> [::1] mysql error: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'vaues
+                (Railson Ferreira de Souza,sadasd,2019-05-17)' at line 1
+2019-05-16 12:08:04 -> [::1] mysql error: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'tanan tanan,2019-05-10)' at line 2
+2019-05-16 12:08:49 -> [::1] mysql error: SQLSTATE[21000]: Cardinality violation: 1241 Operand should contain 1 column(s)
+2019-05-16 12:10:39 -> [::1] mysql error: SQLSTATE[21000]: Cardinality violation: 1241 Operand should contain 1 column(s)
+2019-05-16 12:12:21 -> [::1] mysql error: SQLSTATE[21000]: Cardinality violation: 1241 Operand should contain 1 column(s)
+2019-05-16 12:12:22 -> [::1] mysql error: SQLSTATE[21000]: Cardinality violation: 1241 Operand should contain 1 column(s)
+2019-05-16 12:12:22 -> [::1] mysql error: SQLSTATE[21000]: Cardinality violation: 1241 Operand should contain 1 column(s)
+2019-05-16 12:12:23 -> [::1] mysql error: SQLSTATE[21000]: Cardinality violation: 1241 Operand should contain 1 column(s)
+2019-05-16 12:12:23 -> [::1] mysql error: SQLSTATE[21000]: Cardinality violation: 1241 Operand should contain 1 column(s)
+2019-05-16 12:12:26 -> [::1] mysql error: SQLSTATE[21000]: Cardinality violation: 1241 Operand should contain 1 column(s)
+2019-05-16 12:14:36 -> [::1] mysql error: SQLSTATE[21000]: Cardinality violation: 1241 Operand should contain 1 column(s)
